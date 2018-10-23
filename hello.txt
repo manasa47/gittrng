@@ -1,2 +1,5 @@
 manasa
 say hello to sonata
+
+welcome to training
+this is GIT
